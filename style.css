@@ -1,0 +1,25 @@
+body{
+    background-color: 	#ffb3b3;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+
+}
+
+
+.clock_container{
+    background-color:#cfcffc ;
+    color:#ffe6e6 ;
+    zoom: 10;
+    border: 4px rgb(18, 124, 230);
+    padding: 4px 6px;
+    border-radius: 2px;
+
+    box-shadow: 0 0 44px #00ffcc;
+    
+}
+
+
